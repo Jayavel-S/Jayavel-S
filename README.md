@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jayavel S. A management graduate from Chennai, India.
+- 👋 Hi, I’m Jayavel S. A management student from Chennai, India.
 - 👀 I’m interested in self hosting FOSS applications and learning more about practical Docker deployment in real world use cases. 
 - 🌱 I’m currently learning Docker, Stack Development and Python.
 - 💞️ I’m looking to collaborate on self hosted application develpoments and building a perfect HomeLab!
